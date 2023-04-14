@@ -1,2 +1,11 @@
-# top-spotify-analise-exploratoria
-Trabalho em grupo - analise exploratória do dataset top 100
+# Análise Exploratória dos dados do TOP 100 músicas spotify 2010-2019
+
+Link para os dados: https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019
+
+Feito pelo Grupo 3 - Técnicas de Programação I - Ada
+--> Poliana N Ferreira
+--> Eduardo Acrani Ruivo
+--> Catia
+--> Jade
+--> Laércio
+
